@@ -21,3 +21,13 @@ En el backend de Wikipedia están:
 - El sistema de búsqueda
 - El sistema de usuarios
 - El sistema de edición
+
+## Modelo cliente-servidor
+
+El modelo cliente servidor se resume a 5 pasos:
+
+1. El cliente accede a Wikipedia
+2. Se realiza una petición
+3. El servidor recibe la petición
+4. El servidor envía una respuesta a la petición
+5. El cliente recibe la información y la muestra en pantalla
